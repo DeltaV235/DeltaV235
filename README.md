@@ -1,4 +1,9 @@
 ### 不要打我啊啊💩
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deltav235&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltav235&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ### Hi there 👋 -->
 
 <!--
